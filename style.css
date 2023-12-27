@@ -41,3 +41,82 @@
     color: white; 
     padding-left: 20px;
 }
+
+
+
+.thirdup {
+    text-align: center;
+    font-size: 36px;
+    color: #1F2937;
+}
+
+.thirdmiddle {
+    display: flex;
+    flex: 1;
+}
+.bor {
+    margin-left: 140px;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    border: 5px solid #3882F6;
+}
+
+.thirddown {
+    display: flex;
+    flex: 1;
+    padding: 10px;
+    text-align: center;
+}
+
+.fourth {
+    background-color: #E5E7EB;
+    padding: 20px;
+}
+
+.quotetext {
+    font-size: 36px;
+    color: #1F2937;;
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.quote {
+    text-align: center;
+    padding-left: 550px;
+}
+
+.fifth {
+    display: flex;
+    background-color: #3882F6;
+    color:#F9FAF8;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+}
+
+.fifthleft {
+    flex: 1;
+}
+
+.fifthright {
+    flex: 1;
+    padding-top: 50px;
+}
+
+.button2 {
+    background-color: #3882F6;
+    color:#F9FAF8;
+    border: 2px solid #E5E7EB;
+}
+
+.sixth {
+    background-color: #1F2937;
+    text-align: center;
+    color:#F9FAF8;
+    padding: 50px;
+}
